@@ -1,0 +1,20 @@
+SELECT *
+FROM dbo.employees;
+
+
+
+
+
+SELECT PHONE_NUMBER FROM employees;
+
+
+SELECT SALARY FROM employees;
+
+
+SELECT AVG(SALARY) AS AVGSALARY FROM employees
+
+
+SELECT FIRST_NAME, LAST_NAME, EMAIL FROM Employees ORDER BY SALARY ASC
+
+
+
