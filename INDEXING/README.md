@@ -11,13 +11,15 @@ Esta documentação abrange operações fundamentais no SQL, como CREATE INDEX e
 O comando CREATE INDEX é utilizado para criar um índice em uma tabela. Um índice é uma estrutura que acelera a recuperação de dados, funcionando como uma chave de busca para as consultas. Ele organiza os dados de uma tabela de maneira eficiente, reduzindo o tempo necessário para encontrar informações específicas.
 
 ## Exemplo prático de uso para melhorar o desempenho da busca
-[Create Index - Criar Índice](https://github.com/Rebecabl/SQL-SERVER/blob/main/INDEXING/DROP-INDEX.sql)
+
 
 
 ## Descrição do comando DROP INDEX
 O comando DROP INDEX é utilizado para excluir um índice previamente criado em uma tabela. Remover índices desnecessários é essencial para evitar sobrecarga e garantir a eficiência do banco de dados.
 
-## Exemplos práticos de uso para remover um índice
+## Exemplo prático de uso para remover um índice
+
+[DROP INDEX](https://github.com/Rebecabl/SQL-SERVER/blob/main/INDEXING/DROP-INDEX.sql)
 
 
 
