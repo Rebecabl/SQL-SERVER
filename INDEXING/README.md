@@ -12,6 +12,8 @@ O comando CREATE INDEX é utilizado para criar um índice em uma tabela. Um índ
 
 ## Exemplo prático de uso para melhorar o desempenho da busca
 
+[CREATE INDEX](https://github.com/Rebecabl/SQL-SERVER/blob/main/INDEXING/CREATE-INDEX.sql)
+
 
 
 ## Descrição do comando DROP INDEX
