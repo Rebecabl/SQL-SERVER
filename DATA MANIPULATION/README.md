@@ -11,7 +11,7 @@ Em bancos de dados, é comum encontrar valores nulos, que indicam a ausência de
 
 Quando é necessário assegurar que, ao recuperar dados de uma coluna, qualquer valor nulo seja substituído por um valor padrão, a função ISNULL() oferece uma solução direta e eficaz. Esta função aceita apenas dois parâmetros - a expressão a ser avaliada e o valor de substituição, no caso da expressão ser nula. Se a expressão não for nula, a função retorna a própria expressão; caso contrário, retorna o valor de substituição. No entanto, é importante destacar que a função pode apresentar desafios quando aplicada a tipos de dados diferentes, pois tenta forçar a coerção de tipos.
 
-## Exemplos práticos de uso 
+## Exemplo prático de uso 
 
 
 [ISNULL()](https://github.com/Rebecabl/SQL-SERVER/blob/main/DATA%20MANIPULATION/ISNULL().sql)
@@ -23,7 +23,7 @@ Quando é necessário assegurar que, ao recuperar dados de uma coluna, qualquer 
 
 Essa função segue o padrão ANSI, sendo amplamente suportada em diversos bancos de dados, incluindo SQL Server, MySQL, PostgreSQL, Oracle, entre outros. Sua notável flexibilidade em relação aos tipos de dados permite uma manipulação mais eficaz e coerente de diferentes tipos, tornando-a uma escolha versátil em ambientes diversos.
 
-## Exemplos práticos de uso 
+## Exemplo prático de uso 
 
 [COALESCE()](https://github.com/Rebecabl/SQL-SERVER/blob/main/DATA%20MANIPULATION/COALESCE().sql)
 
